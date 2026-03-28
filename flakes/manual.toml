@@ -416,6 +416,11 @@ repo = "nixpkgs-terraform"
 
 [[sources]]
 type = "github"
+owner = "slendidev"
+repo = "yavsrg-flake"
+
+[[sources]]
+type = "github"
 owner = "StardustXR"
 repo = "telescope"
 
